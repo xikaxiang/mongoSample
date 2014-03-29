@@ -13,7 +13,7 @@ import com.mongodb.DBObject;
  * @author Administrator
  *
  */
-public class student implements DBObject {
+public class Student implements DBObject {
 
 	public static final String COLLECTION_NAME = "student";
 
